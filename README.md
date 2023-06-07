@@ -15,5 +15,6 @@
 
 # sample data
 <img width="769" alt="스크린샷 2023-06-07 오후 4 13 04" src="https://github.com/CatJerry/song-pipeline/assets/79153994/8ff6bb40-6280-43ff-aff9-268024499d36">
+
 * top genre는 category에 활용
 * 그 외 지표는 keyward에 활용
